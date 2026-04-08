@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e1",
+    "title": "Rent",
+    "amount": 12000,
+    "paidBy": "1",
+    "splitAmong": ["1","2","3","4"],
+    "category": "rent",
+    "date": "2024-04-01",
+    "note": ""
+  },
+  {
+    "id": "e2",
+    "title": "Groceries",
+    "amount": 2000,
+    "paidBy": "2",
+    "splitAmong": ["1","2","3","4"],
+    "category": "groceries",
+    "date": "2024-04-05",
+    "note": ""
+  },
+  {
+    "id": "e3",
+    "title": "Electricity",
+    "amount": 1600,
+    "paidBy": "3",
+    "splitAmong": ["1","2","3","4"],
+    "category": "bills",
+    "date": "2024-04-10",
+    "note": ""
+  },
+  {
+    "id": "e4",
+    "title": "Pizza",
+    "amount": 800,
+    "paidBy": "4",
+    "splitAmong": ["1","2","4"],
+    "category": "food",
+    "date": "2024-04-15",
+    "note": ""
+  }
+]
